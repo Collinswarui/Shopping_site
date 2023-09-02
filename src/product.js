@@ -12,13 +12,13 @@ export const PRODUCTS = [
         productImage: product4,
     },
     {
-        id:1,
+        id:2,
         productName: ' BT-Speaker',
         price:  999.0,
         productImage: product2,
     },
     {
-        id:1,
+        id:3,
         productName: 'Connector',
         price: 950.0,
         productImage: product1,

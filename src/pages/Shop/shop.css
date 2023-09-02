@@ -2,6 +2,7 @@
     margin-top: 100px;
     text-align: center;
     font-size: 40px;
+    color: rgb(255, 102, 0);
 }
 .products {
     width: 100%;
@@ -14,6 +15,7 @@
 }
 .product {
     border-radius: 5px;
+    border: 2px solid rgb(241, 119, 5);
     display: flex;
     margin: 3px;
     flex-direction: column;
@@ -30,13 +32,14 @@
 }
 .addToCartBttn {
     background-color: transparent;
-    border: 2px solid rgb(19, 19, 19);
+    border: 2px solid rgb(8, 8, 8);
     min-width: 100px;
     padding-left: 10px;
     padding-right: 10px;
     padding-top: 5px;
     padding-bottom: 5px;
     border-radius: 15px;
+    margin-bottom: 5px;
   }
   
   .addToCartBttn:hover {
