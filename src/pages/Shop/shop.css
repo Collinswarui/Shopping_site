@@ -8,16 +8,15 @@
     width: 100%;
     height: auto;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     place-items: center;
    
 
 }
 .product {
     border-radius: 5px;
-    border: 2px solid rgb(241, 119, 5);
     display: flex;
-    margin: 3px;
+    margin: 20px 3px;
     flex-direction: column;
     justify-content: center;
     align-items: center;
