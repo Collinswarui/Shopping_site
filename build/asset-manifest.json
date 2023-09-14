@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ba59ed6e.css",
+    "main.js": "/static/js/main.e8a3c021.js",
+    "static/media/cam1-removebg-preview.png": "/static/media/cam1-removebg-preview.226e42894a0d781bbfec.png",
+    "static/media/prod1.png": "/static/media/prod1.bd9e4d19f802e30df864.png",
+    "static/media/powerbn-removebg-preview (1).png": "/static/media/powerbn-removebg-preview (1).eaaf86b6a3e2037e75e0.png",
+    "static/media/applesm-removebg-preview (1).png": "/static/media/applesm-removebg-preview (1).59397f61857e52fcacd1.png",
+    "static/media/prod2.png": "/static/media/prod2.88e191c2caa766a34a94.png",
+    "static/media/macbook.png": "/static/media/macbook.523b4f194335d963745f.png",
+    "static/media/mouse-removebg-preview.png": "/static/media/mouse-removebg-preview.6a1636021a73d958c6b2.png",
+    "static/media/iphone.png": "/static/media/iphone.d159b760d0b16a54d2ea.png",
+    "index.html": "/index.html",
+    "main.ba59ed6e.css.map": "/static/css/main.ba59ed6e.css.map",
+    "main.e8a3c021.js.map": "/static/js/main.e8a3c021.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba59ed6e.css",
+    "static/js/main.e8a3c021.js"
+  ]
+}
