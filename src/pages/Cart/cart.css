@@ -4,6 +4,10 @@
     justify-content: center;
     align-items: center;
   }
+
+  .heading{
+    color: chocolate;
+  }
   
   .cartItem {
     width: 700px;
@@ -30,6 +34,11 @@
     width: 40px;
     text-align: center;
     font-weight: bolder;
+  }
+
+  .checkout p {
+    font-weight: bolder;
+    margin-left: 5%;
   }
   
   .checkout button {
